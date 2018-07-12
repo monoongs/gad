@@ -1,0 +1,178 @@
+
+.intro-section .parallax1 {
+	position: relative;
+	/*background-attachment: fixed;*/
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.intro-section .parallax1 {
+	background-image: url(../img/d480.png);
+	height: 100%;
+	width:100%;
+	opacity: 100;
+}
+
+.intro-section h1,.intro-section h3 {
+	color:#d9241f;
+		text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black;
+}
+
+/*.intro-section h1 span,h3 span {
+
+	/*background-color:#eee;*/
+}/*
+
+/*BODY*/
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 100%;
+	  height:50%;
+      margin: auto;
+  }
+
+  .person {
+      border: 10px solid transparent;
+      margin-bottom: 25px;
+      width: 80%;
+      height: 80%;
+      opacity: 0.7;
+  }
+  .person:hover {
+      border-color: #f1f1f1;
+  }
+
+ .cover {
+	
+	width: 100%;
+	height: 150px;
+}
+
+.cover2 {
+	width:245px;
+	height:150px;
+}
+
+.covers {
+	width:500px;
+	height:100%;
+}
+
+.feed h1{
+	text-align:left;
+	text-decoration:underline;
+	color:#d9241f;
+}
+
+.feed h3{
+	text-align:left;
+	font-weight:bold;
+}
+
+.feed h4{
+	text-align:right;
+	font-weight:lighter;
+	color:#c2c2c2;
+	font-size:16px;
+}
+
+.feed a{
+	color:#585858;
+	text-align: justify;
+}
+
+.feed a:hover{
+	text-decoration:underline;
+}
+
+/*.feed img{
+	float:left;
+	padding-right:20px;
+}*/
+
+.feed img:hover{
+	opacity:0.7;
+}
+
+/*footer*/
+
+.footer-section h4{
+	text-align:left;
+	color:white;
+}
+
+.footer-section .lp img{
+	float:left;
+}
+
+.footer-section .rp img{
+	
+	
+	float:left;
+}
+
+
+.sfooter{
+	border-top:solid 1px #fff;
+	background-color:black;
+	padding-bottom:1px;
+}
+
+.footer .us h3{
+	color:white;
+	text-align:left;
+	font-size:20px;
+}
+
+/*location*/
+
+.location h1,.mission h1,.mailnews h1,.contact h1,.room h1,.news h1{
+	text-align:center;
+	color:#d9241f;
+}
+
+.mission h2,.mission h3,.location h2,.mailnews h2,.contact h2,.room h2,.news h2{
+	color:#d9241f;
+}
+
+.mailnews h3,.contact h3,.room h3,.news h3 {
+	color:#d9241f;
+}
+
+.contact {
+	text-align:center;
+}
+
+.room img{
+	margin:auto;
+	width:450px;
+}
+
+.room a{
+	color:#d9241f;
+	text-decoration:underline:
+}
+
+#map{
+	margin-top:1%;
+	height: 420px;
+	width: 100%
+}
+
+.room .pic img{
+	display:inline-block;
+	width:18%;
+	margin-left:1%;
+}
+
+	
+/*mission*/
+
+.mission p{
+	text-align:justify;
+	text-indent: 5em;
+	line-height:1.7em;
+}
